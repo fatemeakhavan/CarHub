@@ -7,6 +7,9 @@ const Hero=()=>{
     const handleScroll=()=>{}
     return(
         <div className="hero">
+            <div className="bg-red-500 w-4 text-blue-300">
+                Helooo
+            </div>
             <div className=" flex-1 pt-36 padding-x">
                 <h1 className="hero__title">
                     Find, book, or rent a car  -- Quickly and easily
